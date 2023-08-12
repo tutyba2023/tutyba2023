@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.home {
+    width: 100%;
+}
+.home .nav-bar {
+    width: 100%;
+}
+.home .contain {
+    background-color: black;
+}
